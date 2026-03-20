@@ -1,0 +1,60 @@
+D. Tejesh Kumar
+Port Blair, Andaman and Nicobar Islands, India
++91 8074275953 | dtejesh05k@gmail.com | LinkedIn | GitHub: tejeshk05
+Objective
+Motivated B.Tech student in Artificial Intelligence and Data Science seeking to leverage expertise in machine learning,
+natural language processing, and full-stack development to design innovative AI-driven solutions and contribute to
+cutting-edge software projects.
+Education
+Koneru Lakshmaiah Education Foundation
+Hyderabad, India
+Bachelor of Technology in Artificial Intelligence and Data Science
+2021 – Present
+• CGPA: 9.1/10.0
+• Relevant Coursework: Machine Learning, Data Structures, Deep Learning, Natural Language Processing (NLP),
+Database Management Systems, Object-Oriented Programming (Python), High-Performance Computing (Linux),
+Computer Vision
+Technical Skills
+Programming Languages: Python, Java, JavaScript, SQL, HTML, CSS
+Frameworks & Libraries: TensorFlow, PyTorch, Keras, Scikit-learn, Django, React.js, Node.js, OpenCV, NumPy,
+Pandas, Matplotlib, Socket.io, Hugging Face
+Tools: Git, Postman, VS Code, PyCharm
+Databases: MySQL, MongoDB
+Cloud Services: Render, Streamlit, Cloudinary
+Methodologies: Agile, Model Deployment
+Soft Skills: Team Collaboration, Problem-Solving
+Certifications
+Microsoft Azure AI Fundamentals, February 2025
+Oracle Cloud Infrastructure 2023 Architect Associate – Oracle, August 2023 – August 2025
+Oracle Cloud Infrastructure 2024 Generative AI Certified Professional – Oracle, July 2023 – July 2026
+TensorFlow Developer Certificate, March 2024 – March 2027
+Experience
+IIT Mandi
+Remote
+Research Intern
+June 2024 – August 2024
+• Developed Generative Adversarial Networks (GANs) using TensorFlow and Keras, optimizing model convergence.
+• Evaluated generative models, achieving a 15% accuracy improvement through hyperparameter tuning.
+• Collaborated with a team of 3 researchers to address challenges in generative AI methodologies.
+Projects
+Chatgram: Secure Real-Time Chat Application
+January 2024 – April 2024
+• Developed a full-stack chat application using the MERN stack with Socket.IO for real-time messaging.
+• Implemented secure user authentication with JWT and bcrypt, protecting API endpoints and user data.
+• Designed a responsive UI with Tailwind CSS and React Router, reducing API response time by 30% through
+optimized MongoDB queries.
+• Deployment: chatgram-lddo.onrender.com
+CineSent Recommender
+February 2024 – June 2024
+• Developed a web application using Streamlit and NLP techniques, achieving 85% accuracy in movie review analysis.
+• Integrated OMDb API to fetch detailed movie data, enhancing recommendation quality.
+• Applied VADER sentiment analysis with NLTK to classify reviews, improving recommendation accuracy by 25%.
+• Deployment: cinesent-movie-recommender.streamlit.app
+GeoPathfinder: Terrain-Aware Route Planning System
+December 2024 –present
+• Developed an A* pathfinding algorithm to create cost-effective routes using DEMs, factoring in slope constraints
+and river crossings
+• Designed bridge placement logic to optimize crossing locations, minimizing costs with road (25/m)andbridge(50/m)
+construction.
+• Built visualization tools with Matplotlib to display terrain maps, elevation contours, slope analysis, and optimized
+routes.
