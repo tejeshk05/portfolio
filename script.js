@@ -117,6 +117,30 @@ document.addEventListener('DOMContentLoaded', () => {
         morphBg.style.transform = `translateY(${scrollAmount * 0.1}px)`;
     });
 
+    /* --- Mobile Navigation ScrollSpy --- */
+    const sections = document.querySelectorAll('.section');
+    const mobileNavItems = document.querySelectorAll('.mobile-nav-item');
+
+    window.addEventListener('scroll', () => {
+        let current = '';
+        sections.forEach(section => {
+            const sectionTop = section.offsetTop;
+            const sectionHeight = section.clientHeight;
+            if (scrollY >= (sectionTop - sectionHeight / 3)) {
+                current = section.getAttribute('id');
+            }
+        });
+
+        mobileNavItems.forEach(item => {
+            item.classList.remove('active');
+            if (current && item.getAttribute('href') && item.getAttribute('href').includes(current)) {
+                item.classList.add('active');
+            } else if (!current && item.getAttribute('href') === '#home') {
+                item.classList.add('active');
+            }
+        });
+    });
+
     // Start typing effect after 1 second
     setTimeout(type, 1000);
 
