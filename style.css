@@ -161,10 +161,11 @@ a:hover ~ .cursor-glow, .btn:hover ~ .cursor-glow, .hover-tilt:hover ~ .cursor-g
 .nav-links a:hover { color: var(--accent-mint); }
 
 /* ---- Hero Section ---- */
-.hero { height: 100vh; display: flex; align-items: center; justify-content: center; position: relative; text-align: center; }
+.hero { min-height: 100vh; display: flex; align-items: center; justify-content: center; position: relative; text-align: center; padding-top: 100px; padding-bottom: 50px; }
 .hero-content { max-width: 900px; z-index: 1; }
 .badge-wrapper { margin-bottom: 2rem; }
 .pulse-badge {
+    display: inline-block;
     background: rgba(104, 186, 127, 0.1); border: 1px solid rgba(104, 186, 127, 0.3);
     color: var(--accent-mint); padding: 8px 18px; border-radius: 20px; font-size: 0.9rem;
     animation: pulse-border 2s infinite; font-weight: 600;
