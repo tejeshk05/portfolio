@@ -144,4 +144,23 @@ document.addEventListener('DOMContentLoaded', () => {
     // Start typing effect after 1 second
     setTimeout(type, 1000);
 
+    /* --- Real-Time Visit Count --- */
+    const visitCountElement = document.getElementById('visit-count');
+    if (visitCountElement) {
+        // Fetch up to increment the visit counter and get the latest count
+        fetch('https://api.counterapi.dev/v1/tejesh_portfolio/visits/up')
+            .then(response => response.json())
+            .then(data => {
+                if (data && data.count) {
+                    visitCountElement.textContent = `${data.count} Profile Views`;
+                } else {
+                    visitCountElement.textContent = `1 Profile Views`;
+                }
+            })
+            .catch(error => {
+                console.error('Error fetching visit count:', error);
+                visitCountElement.textContent = `Profile Views Unavailable`;
+            });
+    }
+
 });
