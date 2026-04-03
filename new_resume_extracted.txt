@@ -1,0 +1,65 @@
+D. Tejesh Kumar
+Port Blair, Andaman and Nicobar Islands, India
++91 8074275953 | # dtejesh05k@gmail.com | ï LinkedIn | § GitHub: tejeshk05 |  Portfolio
+Professional Summary
+B.Tech graduate in Artificial Intelligence and Data Science (CGPA: 9.18/10) with hands-on experience in machine
+learning, deep learning, and full-stack development. Research Intern at IIT Mandi, with proven ability to build and
+deploy AI systems — from real-time chat applications to computer vision pipelines. Seeking roles in ML engineering or
+AI development to apply data-driven approaches to real-world problems.
+Education
+Koneru Lakshmaiah Education Foundation
+Hyderabad, India
+Bachelor of Technology in Artificial Intelligence and Data Science
+2021 – 2025
+• CGPA: 9.18/10.0
+Technical Skills
+Languages: Python, Java, SQL, JavaScript
+AI/ML: TensorFlow, Keras, Scikit-learn, NumPy, Pandas, Hugging Face, Diffusion Models, VAEs, GANs, LLMs
+Web & Tools: React.js, Node.js, Express.js, Git, Postman, VS Code, PyCharm
+Databases: MySQL, MongoDB
+Cloud/Deployment: Render, Streamlit, Cloudinary, AWS, Azure
+Certifications
+Microsoft Azure AI Fundamentals
+February 2025
+Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
+July 2024 – July 2026
+Oracle Cloud Infrastructure 2023 Architect Associate
+August 2023 – August 2025
+TensorFlow Developer Certificate
+March 2024 – March 2027
+Internship Experience
+Indian Institute of Technology (IIT) Mandi
+Remote
+Research Intern
+December 2024 – May 2025
+• Developed an optimal mountain road routing system using the A* algorithm with bridge-planning under
+real-world civil engineering constraints.
+• Processed DEM terrain data and used WhiteboxTools for river detection to enable cost-aware road and bridge
+planning under budget constraints.
+• Built visualization pipeline using Matplotlib for terrain and route analysis, improving path feasibility assessment
+and cost tracking across multiple route scenarios.
+• Research findings documented and presented as part of IIT Mandi’s internal academic review process.
+• Certificate: Internship Completion Certificate
+Projects
+Chatgram: Secure Real-Time Chat Application §
+November 2024 – December 2024
+• Technologies: React, Node.js, Express.js, MongoDB, Socket.IO, JWT, Tailwind CSS
+• Built a full-stack MERN chat application with real-time messaging using Socket.IO and secure authentication
+with JWT and bcrypt.
+• Designed responsive UI and optimized MongoDB queries, reducing API response time by 30%; tested with
+concurrent user sessions.
+• Deployment: chatgram-lddo.onrender.com
+CineSent: NLP-Based Movie Recommendation System §
+May 2024 – June 2024
+• Technologies: Python, Streamlit, NLTK, BeautifulSoup, Requests, OMDb API
+• Built a Streamlit-based movie recommender using NLP and VADER sentiment analysis, achieving 85%
+accuracy and improving recommendation quality by 25%.
+• Integrated OMDb API for enriched movie metadata and deployed the application online.
+• Deployment: cinesent-movie-recommender.streamlit.app
+Vehicle Detection with YOLOv5 §
+August 2023 – October 2023
+• Technologies: Python, YOLOv5, OpenCV, Supervision
+• Implemented YOLOv5 for real-time vehicle detection in 1080p video frames, achieving 95% accuracy.
+• Developed tracking system using Supervision’s ByteTrack, enabling consistent vehicle counting in a defined
+region of interest.
+• Optimized model performance with fine-tuning and confidence thresholds, reducing processing time by 20%.
